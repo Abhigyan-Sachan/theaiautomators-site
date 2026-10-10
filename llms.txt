@@ -1,0 +1,60 @@
+# TheAiAutomators
+
+> AI receptionist and website services for clinics and hotels in India.
+
+## About
+
+TheAiAutomators helps clinics and hotels plan a helpful first response to routine inquiries. Administrative call workflows use approved business information, capture booking preferences and route requests through an agreed staff process. Direct bookings and live transfers depend on supported connections.
+
+## Products
+
+- TheAiAutomators Reception: AI receptionist setup, routine FAQs, booking requests and staff handoffs.
+- TheAiAutomators Sites: Website design, clear copy, inquiry pathways, search foundations and agreed care plans.
+- TheAiAutomators Front Desk: A scoped combination of Reception and Sites.
+
+## Industries
+
+IVF clinics, dental clinics, dermatology practices, eye and vision clinics, and hotels.
+
+## Key facts
+
+- Proposals define pricing in INR, setup, included usage, connections and support.
+- The public voice demo is coming soon. No call or booking is created by the website.
+- Clinical questions go to the clinic's staff through an agreed process. TheAiAutomators is a technology service, not a medical provider.
+- Hosting, recording, data access and retention requirements are assessed for the configured deployment.
+
+## Contact
+
+- [Request a custom demonstration](https://abhigyan-sachan.github.io/theaiautomators-site/contact/)
+
+## Pages
+
+- [Home](https://abhigyan-sachan.github.io/theaiautomators-site/)
+- [AI Receptionist for Clinics & Hotels](https://abhigyan-sachan.github.io/theaiautomators-site/reception/)
+- [Website Design for Clinics & Hotels in India](https://abhigyan-sachan.github.io/theaiautomators-site/websites/)
+- [AI Front Desk for Clinics & Hotels](https://abhigyan-sachan.github.io/theaiautomators-site/industries/)
+- [AI Receptionist for IVF Clinics in India](https://abhigyan-sachan.github.io/theaiautomators-site/industries/ivf/)
+- [AI Receptionist for Dental Clinics in India](https://abhigyan-sachan.github.io/theaiautomators-site/industries/dental/)
+- [AI Receptionist for Dermatology Clinics](https://abhigyan-sachan.github.io/theaiautomators-site/industries/dermatology/)
+- [AI Receptionist for Eye & Vision Clinics](https://abhigyan-sachan.github.io/theaiautomators-site/industries/eye-vision/)
+- [AI Receptionist & Concierge for Hotels](https://abhigyan-sachan.github.io/theaiautomators-site/industries/hotels/)
+- [AI Receptionist & Website Pricing in India](https://abhigyan-sachan.github.io/theaiautomators-site/pricing/)
+- [Voice Demo Coming Soon](https://abhigyan-sachan.github.io/theaiautomators-site/demo/)
+- [About TheAiAutomators | AI Front Desk for Clinics & Hotels](https://abhigyan-sachan.github.io/theaiautomators-site/about/)
+- [Request a Custom AI Receptionist Demo](https://abhigyan-sachan.github.io/theaiautomators-site/contact/)
+- [Trust, Security & Data Handling](https://abhigyan-sachan.github.io/theaiautomators-site/security/)
+- [Clinic & Hotel Front Desk Resources](https://abhigyan-sachan.github.io/theaiautomators-site/resources/)
+- [A Helpful First Response for Callers](https://abhigyan-sachan.github.io/theaiautomators-site/resources/a-helpful-first-response/)
+- [Booking Requests & Confirmations](https://abhigyan-sachan.github.io/theaiautomators-site/resources/booking-requests-and-confirmations/)
+- [What Visitors Need Before They Call](https://abhigyan-sachan.github.io/theaiautomators-site/resources/website-before-the-first-call/)
+- [AI Receptionist for Clinics & Hotels in Mumbai](https://abhigyan-sachan.github.io/theaiautomators-site/ai-receptionist-mumbai/)
+- [AI Receptionist for Clinics & Hotels in Delhi](https://abhigyan-sachan.github.io/theaiautomators-site/ai-receptionist-delhi/)
+- [AI Receptionist for Clinics & Hotels in Bengaluru](https://abhigyan-sachan.github.io/theaiautomators-site/ai-receptionist-bangalore/)
+- [AI Receptionist for Clinics & Hotels in Hyderabad](https://abhigyan-sachan.github.io/theaiautomators-site/ai-receptionist-hyderabad/)
+- [AI Receptionist for Clinics & Hotels in Chennai](https://abhigyan-sachan.github.io/theaiautomators-site/ai-receptionist-chennai/)
+- [AI Receptionist for Clinics & Hotels in Kolkata](https://abhigyan-sachan.github.io/theaiautomators-site/ai-receptionist-kolkata/)
+- [AI Receptionist for Clinics & Hotels in Pune](https://abhigyan-sachan.github.io/theaiautomators-site/ai-receptionist-pune/)
+- [AI Receptionist for Clinics & Hotels in Ahmedabad](https://abhigyan-sachan.github.io/theaiautomators-site/ai-receptionist-ahmedabad/)
+- [AI Receptionist for Clinics & Hotels in Jaipur](https://abhigyan-sachan.github.io/theaiautomators-site/ai-receptionist-jaipur/)
+- [AI Receptionist for Clinics & Hotels in Kochi](https://abhigyan-sachan.github.io/theaiautomators-site/ai-receptionist-kochi/)
+- [AI Receptionist Services Across India](https://abhigyan-sachan.github.io/theaiautomators-site/cities/)
