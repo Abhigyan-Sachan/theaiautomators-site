@@ -25,4 +25,4 @@ Allow: /
 User-agent: anthropic-ai
 Allow: /
 
-Sitemap: https://abhigyan-sachan.github.io/theaiautomators-site/sitemap.xml
+Sitemap: https://www.theaiautomators.tech/sitemap.xml
